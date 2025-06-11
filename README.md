@@ -26,7 +26,7 @@ La carpeta figuras contiene el archivo .py con la interfaz gráfica de usuario p
 ![figuras_1](figuras_1.png)
 ![figuras_2](figuras_2.png)
 ![figuras_3](/Figuras/CD_Figures.png)
-![figuras_4](/Figuras/UseCase_Figuras.png)
+![figuras_4](/Figuras/UseCase_Figures.png)
 
 ---
 

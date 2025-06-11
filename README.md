@@ -36,6 +36,3 @@ La carpeta figuras contiene el archivo .py con la interfaz gráfica de usuario p
 #### Casos de uso
 ![figuras_4](/figuras/UseCase_Figures.png)
 
----
-
-##  📷 Diagramas de clase
